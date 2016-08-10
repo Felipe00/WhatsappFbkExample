@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">App Redes Sociais</string>
+    <string name="send_message">Enviar menssagem</string>
+    <string name="facebook_app_id">1744630725805908</string>
+    <string name="make_comment">Criar comentário</string>
+</resources>
